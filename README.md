@@ -225,11 +225,12 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
   <td><a href="Samples/Logging">Logging</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/PdfDocument">PDF document</a></td>
   <td><a href="Samples/DataReaderWriter">Serializing and deserializing data</a></td>
   <td><a href="Samples/XamlBind">x:Bind</a></td>
-  <td><a href="Samples/XamlDeferLoadStrategy">x:DeferLoadStrategy</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/XamlDeferLoadStrategy">x:DeferLoadStrategy</a></td>
   <td><a href="Samples/XmlDocument">XML DOM</a></td>
   <td><a href="Samples/XmlLite">XmlLite</a></td>
  </tr>
@@ -240,7 +241,10 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  </tr>
  <tr>
   <td><a href="Samples/AppServices">App services</a></td>
+  <td><a href="Samples/JumpList">Jump list customization</a></td>
   <td><a href="Samples/ShareSource">Sharing content source app</a></td>
+ </tr>
+ <tr>
   <td><a href="Samples/ShareTarget">Sharing content target app</a></td>
  </tr>
 </table>
@@ -274,7 +278,7 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
   <td><a href="Samples/CustomUsbDeviceAccess">Custom USB device</a></td>
  </tr>
  <tr>
-  <td><a href="Samples/DeviceEnumeration">Device enumeration</a></td>
+  <td><a href="Samples/DeviceEnumerationAndPairing">Device enumeration and pairing</a></td>
   <td><a href="Samples/IoT-GPIO">General Purpose Input/Output (GPIO)</a></td>
   <td><a href="Samples/Gyrometer">Gyrometer</a></td>
  </tr>
@@ -387,19 +391,20 @@ For additional Windows samples, see [Windows on GitHub](http://microsoft.github.
  <tr>
   <td><a href="Samples/PasswordVault">Credential locker</a></td>
   <td><a href="Samples/CredentialPicker">Credential picker</a></td>
-  <td><a href="Samples/DisablingScreenCapture">Disabling screen capture</a></td>
+  <td><a href="Samples/DeviceLockdownAzureLogin">Device lockdown with Azure login</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/DisablingScreenCapture">Disabling screen capture</a></td>
   <td><a href="Samples/EnterpriseDataProtection">Enterprise data protection</a></td>
   <td><a href="Samples/KeyCredentialManager">KeyCredentialManager</a></td>
-  <td><a href="Samples/Personalization">Lock screen personalization</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/Personalization">Lock screen personalization</a></td>
   <td><a href="Samples/SmartCard">Smart cards</a></td>
   <td><a href="Samples/UserInfo">User information</a></td>
-  <td><a href="Samples/UserConsentVerifier">UserConsentVerifier</a></td>
  </tr>
  <tr>
+  <td><a href="Samples/UserConsentVerifier">UserConsentVerifier</a></td>
   <td><a href="Samples/WebAccountManagement">Web account management</a></td>
   <td><a href="Samples/WebAuthenticationBroker">WebAuthenticationBroker</a></td>
  </tr>
